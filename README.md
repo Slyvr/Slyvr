@@ -1,11 +1,4 @@
-### Hi there, I'm Matthew - aka [Slyvr][website] 👋 
-
-## I'm a Husband, Cat Dad, and Programmer!!
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 Always looking for new friends and Game Dev co-developers
-- 🥅 2022 Goals: Start a new game development project
-- ⚡ Fun fact: I'm building a shuttle bus into an RV!
+### Hi there, I'm Matthew
 
 ### Connect with me:
 
